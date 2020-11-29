@@ -1,0 +1,43 @@
+.branding {
+	font-size: 30px;
+}
+
+.login {
+	font-size: 20px;
+}
+
+.form-control {
+	width: 60%;
+}
+
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+	width: 75%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: 0;
+	margin-left: auto;
+}
+
+.register-submit-btn {
+	margin-bottom: 1rem;
+}
+
+label {
+	font-weight: 700;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+}
+
+#heading {
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+	font-size: 40px;
+}

@@ -6,4 +6,9 @@ class Kanban extends CI_Controller
     {
         $this->load->view("register_view");
     }
+
+    public function login()
+    {
+        echo "Not implemented yet";
+    }
 }

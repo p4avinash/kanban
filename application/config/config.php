@@ -24,6 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://localhost/projects/kanban/';
+$config['bootstrap'] = 'http://localhost/projects/kanban/assets/bootstrap/css/bootstrap.min.css';
 
 /*
 |--------------------------------------------------------------------------
